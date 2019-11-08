@@ -1,3 +1,4 @@
+//for reference https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb
 import express from 'express'
 import bodyParser from 'body-parser';
 const app = express()
